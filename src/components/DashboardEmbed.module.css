@@ -1,0 +1,11 @@
+/* src/components/DashboardEmbed.module.css */
+.dashboardContainer {
+  width: 100vw;  /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+}
+
+.dashboardContainer iframe {
+  width: 100%;  /* Full width of the container */
+  height: 100%; /* Full height of the container */
+}
+
